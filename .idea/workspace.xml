@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab4185aa-950d-4556-89a2-96b4c5d715e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1618659692">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="39" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="13" />
+          <entry key="project.open.time.11" value="6" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="6" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="101" />
+          <entry key="kt" value="1" />
+          <entry key="txt" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="101" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="15210" />
+          <entry key="Kotlin" value="25" />
+          <entry key="PLAIN_TEXT" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="15210" />
+          <entry key="kt" value="25" />
+          <entry key="txt" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TipCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ITEC31500.java" />
+        <option value="$PROJECT_DIR$/src/Practice.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/States.java" />
+        <option value="$PROJECT_DIR$/src/Fib.java" />
+        <option value="$PROJECT_DIR$/src/RandomStringExample.java" />
+        <option value="$PROJECT_DIR$/src/HashExample.java" />
+        <option value="$PROJECT_DIR$/src/Practice2.java" />
+        <option value="$PROJECT_DIR$/src/Heroes2.java" />
+        <option value="$PROJECT_DIR$/src/Heroes.java" />
+        <option value="$PROJECT_DIR$/src/Student.java" />
+        <option value="$PROJECT_DIR$/src/StringReplaceExample.java" />
+        <option value="$PROJECT_DIR$/src/HashMapPrintOrder.java" />
+        <option value="$PROJECT_DIR$/src/Monster.java" />
+        <option value="$PROJECT_DIR$/src/Hero.java" />
+        <option value="$PROJECT_DIR$/src/StackExample.java" />
+        <option value="$PROJECT_DIR$/src/Practice3.java" />
+        <option value="$PROJECT_DIR$/src/StringPermutations.java" />
+        <option value="$PROJECT_DIR$/src/removeX.java" />
+        <option value="$PROJECT_DIR$/src/BinaryNode.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveExcercise.java" />
+        <option value="$PROJECT_DIR$/src/Balance.java" />
+        <option value="$PROJECT_DIR$/src/OverwriteKVExample.kt" />
+        <option value="$PROJECT_DIR$/src/OverwriteKVExample.java" />
+        <option value="$PROJECT_DIR$/src/Song.java" />
+        <option value="$PROJECT_DIR$/src/PrintBinaryInterative.java" />
+        <option value="$PROJECT_DIR$/src/Test1.java" />
+        <option value="$PROJECT_DIR$/src/PriorityQueueExample.java" />
+        <option value="$PROJECT_DIR$/src/SortingExample.java" />
+        <option value="$PROJECT_DIR$/src/Mode.java" />
+        <option value="$PROJECT_DIR$/src/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/Scores.java" />
+        <option value="$PROJECT_DIR$/src/RunTime.java" />
+        <option value="$PROJECT_DIR$/src/BruteForce.java" />
+        <option value="$PROJECT_DIR$/src/illegalArgumentExample.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="440" />
+    <option name="y" value="86" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ITEC3150" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ITEC3150" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ITEC3150" type="58d84e3e:PackageViewProjectNode" />
+              <item name="ITEC3150" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ITEC3150" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ITEC3150" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539821091906" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fvali\IdeaProjects\ITEC3150\res" />
+      <recent name="C:\Users\fvali\IdeaProjects\ITEC3150\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.illegalArgumentExample">
+    <configuration name="BruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce" />
+      <module name="ITEC3150" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode" />
+      <module name="ITEC3150" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunTime" />
+      <module name="ITEC3150" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting" />
+      <module name="ITEC3150" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="illegalArgumentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="illegalArgumentExample" />
+      <module name="ITEC3150" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Mode" />
+      <item itemvalue="Application.Sorting" />
+      <item itemvalue="Application.RunTime" />
+      <item itemvalue="Application.BruteForce" />
+      <item itemvalue="Application.illegalArgumentExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.illegalArgumentExample" />
+        <item itemvalue="Application.RunTime" />
+        <item itemvalue="Application.BruteForce" />
+        <item itemvalue="Application.Sorting" />
+        <item itemvalue="Application.Mode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab4185aa-950d-4556-89a2-96b4c5d715e6" name="Default Changelist" comment="" />
+      <created>1534344900395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534344900395</updated>
+      <workItem from="1534344903880" duration="76000" />
+      <workItem from="1534345019879" duration="606000" />
+      <workItem from="1534772217767" duration="4529000" />
+      <workItem from="1534945315359" duration="1361000" />
+      <workItem from="1534946709834" duration="1305000" />
+      <workItem from="1534948808060" duration="1962000" />
+      <workItem from="1535378103939" duration="11893000" />
+      <workItem from="1535549643251" duration="5181000" />
+      <workItem from="1535556206130" duration="599000" />
+      <workItem from="1535559251636" duration="2057000" />
+      <workItem from="1535718329014" duration="20000" />
+      <workItem from="1536155791327" duration="10512000" />
+      <workItem from="1536331140081" duration="88000" />
+      <workItem from="1536336719595" duration="593000" />
+      <workItem from="1536375472494" duration="4000" />
+      <workItem from="1536376020118" duration="599000" />
+      <workItem from="1536451665069" duration="709000" />
+      <workItem from="1536586896598" duration="3600000" />
+      <workItem from="1536591296840" duration="188000" />
+      <workItem from="1536759282480" duration="4610000" />
+      <workItem from="1537191745097" duration="933000" />
+      <workItem from="1537192987395" duration="4120000" />
+      <workItem from="1537364579801" duration="526000" />
+      <workItem from="1537365133573" duration="3038000" />
+      <workItem from="1537539953883" duration="139000" />
+      <workItem from="1537540187677" duration="46000" />
+      <workItem from="1537540907916" duration="638000" />
+      <workItem from="1537744651021" duration="1711000" />
+      <workItem from="1537798136492" duration="3084000" />
+      <workItem from="1537966210930" duration="2252000" />
+      <workItem from="1538138897804" duration="6000" />
+      <workItem from="1538401714086" duration="2415000" />
+      <workItem from="1538574521971" duration="3169000" />
+      <workItem from="1538874667401" duration="9000" />
+      <workItem from="1539005041811" duration="4966000" />
+      <workItem from="1539177785088" duration="7059000" />
+      <workItem from="1539356313426" duration="102000" />
+      <workItem from="1539357637499" duration="629000" />
+      <workItem from="1539784027570" duration="2714000" />
+      <workItem from="1539791335987" duration="2000" />
+      <workItem from="1539817086074" duration="1815000" />
+      <workItem from="1539819995094" duration="819000" />
+      <workItem from="1539820866103" duration="225000" />
+      <workItem from="1539821132006" duration="43000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1539817345853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539817345853</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update">
+      <created>1539818029460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539818029460</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <created>1539818632955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539818632955</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;Update&quot;&#10;&#10;This reverts commit 22766f3">
+      <created>1539820907434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539820907434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90952000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21543624" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27234042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.31730768" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49932885" visible="true" weight="0.42695037" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4986979" weight="0.32692307" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50130206" side_tool="true" weight="0.32692307" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20442708" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27234042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.31730768" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49932885" weight="0.025531914" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4986979" visible="true" weight="0.32692307" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50130206" side_tool="true" visible="true" weight="0.32692307" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <MESSAGE value="Revert &quot;Update&quot;&#10;&#10;This reverts commit 22766f3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Update&quot;&#10;&#10;This reverts commit 22766f3" />
+    <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ITEC31500.java" />
+    <entry file="file://$PROJECT_DIR$/src/States.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/BiConsumer.java" />
+    <entry file="file://$PROJECT_DIR$/src/RandomStringExample.java" />
+    <entry file="file://$PROJECT_DIR$/res/heroes.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Heroes2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Practice.java" />
+    <entry file="file://$PROJECT_DIR$/src/Heroes.java" />
+    <entry file="file://$PROJECT_DIR$/src/HashMapPrintOrder.java" />
+    <entry file="file://$PROJECT_DIR$/src/Monster.java" />
+    <entry file="file://$PROJECT_DIR$/src/RecursiveExcercise.java" />
+    <entry file="file://$PROJECT_DIR$/src/removeX.java" />
+    <entry file="file://$PROJECT_DIR$/src/Practice3.java" />
+    <entry file="file://$PROJECT_DIR$/src/Practice2.java" />
+    <entry file="file://$PROJECT_DIR$/src/StringReplaceExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/BinaryNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/Fib.java" />
+    <entry file="file://$PROJECT_DIR$/src/HashExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/StringPermutations.java" />
+    <entry file="file://$USER_HOME$/Downloads/Balance.java" />
+    <entry file="file://$PROJECT_DIR$/src/Balance.java" />
+    <entry file="file://$PROJECT_DIR$/src/Hero.java" />
+    <entry file="file://$PROJECT_DIR$/src/StackExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/OverwriteKVExample.kt" />
+    <entry file="file://$PROJECT_DIR$/src/OverwriteKVExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/Song.java" />
+    <entry file="file://$PROJECT_DIR$/src/PrintBinaryInterative.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/SortingExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/PriorityQueueExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/Sorting.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="501" selection-start-line="501" selection-end-line="501" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ref/ReferenceQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ref/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ref/Finalizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mode.java" />
+    <entry file="file://$PROJECT_DIR$/src/Scores.java" />
+    <entry file="file://$PROJECT_DIR$/src/RunTime.java" />
+    <entry file="file://$PROJECT_DIR$/src/BruteForce.java" />
+    <entry file="file://$PROJECT_DIR$/src/illegalArgumentExample.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/ITEC3150/BinaryNode.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/ITEC3150/Balance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="55" selection-start-line="5" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/ITEC3150/states.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TipCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ITEC3150</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.apache.commons:commons-lang3:3.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
